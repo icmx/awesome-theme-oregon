@@ -28,7 +28,7 @@ theme.orientation        = "top"
 -- {{{ Main Theme Variables
 
 theme.icon_size    = 48                                               -- Custom
-theme.font         = "DejaVuSans 10"
+theme.font         = "DejaVuSans 9"
 theme.icon_theme   = "Adwaita"
 theme.wallpaper    = dir .. "/wallpaper.png"
 theme.awesome_icon = dir .. "/launcher/awesome.png"
